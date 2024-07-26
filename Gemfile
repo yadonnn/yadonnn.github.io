@@ -1,2 +1,4 @@
 source "https://rubygems.org"
-gemspec
+gemspecs
+gem "jekyll-sitemap", "~> 1.3"
+gem "minimal-mistakes-jekyll"
